@@ -10,7 +10,7 @@ A few resources to get you started if this is your first Flutter project:
 
 | Image 1 | Image 2 | Image 3 |
 | ------- | ------- | ------- |
-| ![image1](https://github.com/user-attachments/assets/6ef7dbd3-1454-4dd0-a452-ed82ef617abb) | ![image2](https://github.com/user-attachments/assets/caeba3ff-2a8b-45ed-b3de-f2478acb589f) | ![image3](![image](https://github.com/user-attachments/assets/b33f7792-ef58-412f-8715-f79ca80fe73d)
+| ![image1](https://github.com/user-attachments/assets/6ef7dbd3-1454-4dd0-a452-ed82ef617abb) | ![image2](https://github.com/user-attachments/assets/caeba3ff-2a8b-45ed-b3de-f2478acb589f) | ![image3](https://github.com/user-attachments/assets/b33f7792-ef58-412f-8715-f79ca80fe73d)
 ) |
 
 | Image 4 | Image 5 | Image 6 |
